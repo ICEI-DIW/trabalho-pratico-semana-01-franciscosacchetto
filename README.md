@@ -7,7 +7,6 @@ Nome: Francisco Sacchetto Andrade
 Matricula: 885995
 
 ## Tela de inspeção com navegador
-![ferramentas](<Ferramentas ADM.png>)
-
+![Feramentas ADM](<Ferramentas ADM2.png>)
 ## Tela de projeto no Replit
 ![replit](<Site Teste.png>)
